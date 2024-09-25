@@ -3,8 +3,6 @@ In this Code You got python api code with Streamlit  , jupyter notbook of model 
 # Note
 .PKL file are deleted due to memoery issue so first You have to run jupyter file 
 
-# Note 
-
 If You got to error of streamlit : The term 'streamlit' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of 
 the name, or if a path was included, verify that the path is correct and try again.
 
